@@ -50,4 +50,39 @@ A simple and fun command-line implementation of the classic **Rock, Paper, Sciss
   * `paper`
   * `scissors`
 * The computer will randomly choose its move
-* The winner is deci
+* The winner is decided based on classic rules:
+
+  * Rock beats Scissors
+  * Scissors beats Paper
+  * Paper beats Rock
+
+---
+
+## 📸 Sample Output
+
+```
+🎮 New Game Started!
+Enter your choice (rock, paper, scissors): rock
+🎉 Congrats! You win!!
+Computer chose scissors and you chose rock
+```
+
+---
+
+## 💡 Future Improvements
+
+* Add score tracking 🧮
+* Add GUI version (Tkinter or Web)
+* Add sound effects 🎵
+
+---
+
+## 👨‍💻 Author
+
+* Shreya Pandita
+
+---
+
+## ⭐ If you like this project
+
+Give it a star on GitHub!
